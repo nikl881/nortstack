@@ -8,12 +8,8 @@
 }
 
 
-.ui-menu-color-home {
-    background-color: #e67e22;
-}
-
 body{
-    background-color: #d7d7d7;
+    background-color: #ffffff;
 }
 
 /*--------------------------------------------Special Paddings/Margins/Text*/
@@ -25,7 +21,7 @@ body{
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    color: #f000000;
+    color: #000000;
 }
 
 .inline-block {
@@ -35,66 +31,79 @@ body{
 .row-table {
     display: table;
     text-align: center; 
-    margin-left: auto;
     margin-right: auto;
     width: 800px;
     height: 600px;
-    
     
 }
 
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    margin-top: 100px; 
+    margin-top: 140px; 
     margin-bottom: 40px;
+  
 }
 /*--------------------------------------------Heading*/
 
-.logo {
-
-	text-align: left; 
-
+img{
+    position: fixed; 
 }
-	.logo img {
-	width: 500px;
-	margin-top: 20px;
-
-}
-
   
-
-.heading {
-    margin-left: 50px;
-    margin-bottom: 10px; 
-    
+.nav-probeer { 
+    margin-left: 500px; 
+    position: fixed; 
 }
+
+.navbar-nav{
+
+    margin: 5px; 
+    margin-bottom: 10px; 
+    margin-top: 30px; 
+
+}
+
 
 .navbar{
     font-size: 20px;
     font-family: roboto, sans-serif; 
-    margin-bottom: 10px; 
+    
+    margin-top: 50px;
+    margin-bottom: 30px; 
+    color: #ffffff; 
+    background-color: #000000; 
+
 }
 
-.navbar-brand{
-    font-size: 30px; 
-  margin-bottom: 10px; 
-    margin-left: 100px; 
-    
+.navbar-inverse{ 
+     margin: 50px;    
+
 }
 
 .nav-link{ 
-     font-size: 20px;   
-     letter-spacing: 3px; 
-     display: inline; 
-     padding-right: 30px; 
+     font-size: 15px; 
+     letter-spacing: 5px; 
+     margin-top: 30px; 
+
 }
 
+.nav-item{
+    color: #ffffff; 
+
+    background-color: #000000; 
+    list-style-type: none;
+    text-align: center; 
+      margin-left:15px;
+      margin-right:15px; 
+      white-space: nowrap;
+}
+    
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
+
 }
 
 /*--------------------------------------------Footer*/
@@ -161,7 +170,6 @@ footer .cv-pdf i:hover {
 
 }
 
-
 /*--------------------------------------------Media Queries & Iframes*/
 
 @media(min-width: 992px) {
@@ -178,7 +186,6 @@ footer .cv-pdf i:hover {
     padding-bottom: 56.25%;
     height: 0;
     
-
 } 
 
 .iframe-container iframe{ 
@@ -191,5 +198,6 @@ footer .cv-pdf i:hover {
 }
 
 .container{
-    margin-bottom: 80px; 
+    margin: 0 auto;
+    width: 40%;
 }
