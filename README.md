@@ -71,4 +71,3 @@ Acknowledgements
 
 In progress / n.a.
 
-<h1 class="section-heading uppercase">OUR COMPANY IN 1 MINUTE</h1>
