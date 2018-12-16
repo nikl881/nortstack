@@ -37,13 +37,7 @@ body{
     
 }
 
-.section-heading {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 170px; 
-    margin-bottom: 40px;
-  
-}
+
 /*--------------------------------------------Heading*/
 
 img{
@@ -165,7 +159,7 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #059c63;
+    background: #00ffbf; 
 }
 
 #footer-details {
