@@ -40,6 +40,13 @@ body{
 
 /*--------------------------------------------Heading*/
 
+.section-heading{ 
+    margin-top: 150px;
+    text-align: center; 
+    font-family: roboto, sans-serif; 
+    
+}
+
 img{
     position: fixed; 
 }
