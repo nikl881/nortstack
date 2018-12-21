@@ -42,10 +42,10 @@ body{
 /*--------------------------------------------Heading*/
 
 .section-heading{ 
-    margin-top: 150px;
+    margin-top: 140px;
     text-align: center; 
     font-family: roboto, sans-serif; 
-    padding: 10px; 
+
     
 }
 
@@ -213,7 +213,7 @@ footer .cv-pdf i:hover {
 
 .container{
     margin: 0 auto;
-    width: 40%;
+    width: 35%;
 }
 
 .row-brand{ 
@@ -221,10 +221,11 @@ footer .cv-pdf i:hover {
 } 
 
 .probeertje{ 
-   margin-bottom: 100px;    
-   margin-top: -100px; 
+   margin-bottom: 110px;    
+   margin-top: -150px; 
 }
 
 .col-md-4{
   padding-top: 35px;  
+  padding-left: 30px;
 } 
