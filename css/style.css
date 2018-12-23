@@ -42,10 +42,10 @@ body{
 /*--------------------------------------------Heading*/
 
 .section-heading{ 
-    margin-top: 140px;
+    margin-top: 10px;
     text-align: center; 
     font-family: roboto, sans-serif; 
-    padding: 10px;
+    padding: 5px;
 
     
 }
@@ -54,41 +54,42 @@ body{
     margin-top: 150px;
     text-align: left; 
     font-family: roboto, sans-serif; 
-    padding: 10px; 
+
 }
 
 
-img{
-    position: fixed; 
-}
   
 .nav-probeer { 
     margin-left: 500px; 
-    position: fixed; 
+
+  
 }
 
-.navbar-nav{
+.navbar-header{
 
-    margin: 5px; 
-    margin-bottom: 10px; 
-    margin-top: 30px; 
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto; 
+    height: 5px; 
+ }
 
-}
 
-.navbar{
-    font-size: 20px;
-    font-family: roboto, sans-serif; 
-    margin-top: 50px;
-    margin-bottom: 30px; 
-    color: #ffffff; 
-    background-color: #000000; 
-    
-
-}
 
 .navbar-inverse{ 
-     margin: 50px;    
+    background-color: #000000; 
+    height: 30px; 
+    padding-right: 500px;
+    
+} 
 
+.navbar-toggle{ 
+     float: left;    
+}
+
+
+.navbar-collapse{ 
+    height: 5px; 
 }
 
 .nav-link{ 
@@ -109,10 +110,29 @@ img{
       white-space: nowrap;
 }
 
-.navbar-brand{
-    margin-left: 450px; 
+.navbar-brand{ 
+    float:left;
+    margin-left: 250px; 
 }
-    
+
+
+
+.navbar-brand img{
+    margin-left: 200px; 
+    margin-top: -16px; 
+
+}
+
+.navbar-nav{
+    float: left;
+    margin-left: 270px;
+    margin-bottom: 20px; 
+    margin: 50px;
+    margin-top: 15px; 
+    height: 10px; 
+}
+
+
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
@@ -213,20 +233,23 @@ footer .cv-pdf i:hover {
 }
 
 .container{
-    margin: 0 auto;
+    margin-top:20px;
     width: 35%;
 }
 
-.row-brand{ 
-  margin-bottom: 100px;   
-} 
+
 
 .probeertje{ 
    margin-bottom: 110px;    
    margin-top: -150px; 
+   padding:50px;
 }
 
 .col-md-4{
   padding-top: 35px;  
   padding-left: 30px;
+} 
+
+.container-fluid{ 
+  margin-top: 10px;   
 } 
