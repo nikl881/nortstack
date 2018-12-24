@@ -54,6 +54,7 @@ body{
     margin-top: 150px;
     text-align: left; 
     font-family: roboto, sans-serif; 
+    width: 100vw; 
 
 }
 
@@ -111,9 +112,7 @@ body{
 
 
 .navbar-brand img{
-    
     margin-top: -16px; 
-   margin-left: 350px; 
 }
 
 .navbar-nav{
@@ -121,7 +120,8 @@ body{
     margin-left: 20px; 
     margin-top: 15px; 
     height: 10px; 
-
+    position: fixed; 
+    width: 100vw; 
 }
 
 
@@ -224,24 +224,12 @@ footer .cv-pdf i:hover {
     
 }
 
-.container{
-    margin-top:20px;
-    width: 35%;
-}
 
-
-
-.probeertje{ 
+.styling-container{ 
    margin-bottom: 110px;    
    margin-top: -150px; 
    padding:50px;
+    display: block; 
+   
 }
 
-.col-md-4{
-  padding-top: 35px;  
-  padding-left: 30px;
-} 
-
-.container-fluid{ 
-  margin-top: 10px;   
-} 
