@@ -13,26 +13,51 @@ body {
     height: auto; 
 }
 
+.second-logo img { 
+    position: relative; 
+    width: 45px;
+    height: 45px; 
+}
+
+.third logo img {
+    width: 100px; 
+    height: 100px; 
+}
+
+
+.navbar-inverse {
+    background-color: black;
+    
+}
+
+
 .container { 
-    max-width: 800px; 
+    max-width: 600px; 
 } 
 
 .title {
-    padding: 50px 0px;
+    padding: 40px 0px;
 }
 
 .title h1 {
+    font-family: roboto, sans-serif; 
     text-align: center; 
     margin: 0;
+    
 }
 
+
 .video-content video{
-    width: 100%; 
+    width: 100%;
+    
 }
 
 .about-company{
     padding: 50px 0px;
+    margin-bottom: 150px; 
 }
+
+
 
 .about-company col-md-3{
     text-align: center; 
@@ -63,7 +88,7 @@ footer {
     clear: both;
     position: fixed;
     height: 40px;
-    margin-top: -40px;
+
 }
     
 
@@ -109,4 +134,8 @@ footer .cv-pdf i:hover {
 #footer-details {
     margin: 20px;
 
+}
+
+@media screen and (max-width:800px) {
+    .second-logo {display:none}
 }
