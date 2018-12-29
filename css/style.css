@@ -1,127 +1,41 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-
-/*--------------------------------------------Colors*/
-
-.bg-color-name-title {
-    background-color: #ffffff;
+body {
+    padding-top: 100px; 
 }
 
-
-body{
-    background-color: #ffffff;
-    font-family: roboto, sans-serif; 
+.first-logo {
+    background-color: white; 
 }
 
-/*--------------------------------------------Special Paddings/Margins/Text*/
-
-.uppercase {
-    text-transform: uppercase;
+.first-logo img {
+    width: 250px; 
+    height: auto; 
 }
 
-.general-sub {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    color: #ffffff;
-}
-
-.inline-block {
-    display: inline-block;
-}
-
-.row-table {
-    display: table;
-    text-align: center; 
-    margin-right: auto;
-    width: 800px;
-    height: 600px;
-    
-}
-
-
-/*--------------------------------------------Heading*/
-
-.section-heading{ 
-    margin-top: 10px;
-    text-align: center; 
-    font-family: roboto, sans-serif; 
-    padding: 5px;
-
-    
-}
-
-.section-heading-2{
-    margin-top: 150px;
-    text-align: left; 
-    font-family: roboto, sans-serif; 
-    width: 100vw; 
-
-}
-
-
-  
-.nav-probeer { 
-    margin-left: 350px; 
-
-  
-}
-
-.navbar-header{
-
-    padding-right:15px;
-    padding-left:15px;
-    margin-right:auto;
-    margin-left:auto; 
-    height: 5px; 
- }
-
-
-
-.navbar-inverse{ 
-    background-color: #000000; 
-    padding-right: 500px;
-    
+.container { 
+    max-width: 800px; 
 } 
 
-.navbar-toggle{ 
-     float: left;    
+.title {
+    padding: 50px 0px;
 }
 
-
-.navbar-collapse{ 
-    height: 5px; 
-    margin-left: 200px; 
-  
-}
-
-
-
-.nav-item{
-    color: #ffffff; 
-
-    background-color: #000000; 
-    list-style-type: none;
+.title h1 {
     text-align: center; 
-      margin-left:15px;
-      margin-right:15px; 
-      white-space: nowrap;
-       display: block;
-
+    margin: 0;
 }
 
-
-
-.navbar-brand img{
-    margin-top: -16px; 
+.video-content video{
+    width: 100%; 
 }
 
-.navbar-nav{
-    margin-bottom: 20px; 
-    margin-left: 20px; 
-    margin-top: 15px; 
-    height: 10px; 
-    position: fixed; 
-    width: 100vw; 
+.about-company{
+    padding: 50px 0px;
+}
+
+.about-company col-md-3{
+    text-align: center; 
 }
 
 
@@ -196,40 +110,3 @@ footer .cv-pdf i:hover {
     margin: 20px;
 
 }
-
-/*--------------------------------------------Media Queries & Iframes*/
-
-@media(min-width: 992px) {
-    .section-column {
-        padding: 0 30px 30px;
-        float: none;
-        display: table-cell;
-    }
-}
-
-.iframe-container{ 
-    position: relative; 
-    width: 100%; 
-    padding-bottom: 56.25%;
-    height: 0;
-    
-} 
-
-.iframe-container iframe{ 
-    position: absolute;
-    top:0;
-    left:0; 
-    width: 100%;
-    height: 100%; 
-    
-}
-
-
-.styling-container{ 
-   margin-bottom: 110px;    
-   margin-top: -150px; 
-   padding:50px;
-    display: block; 
-   
-}
-
