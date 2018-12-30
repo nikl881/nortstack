@@ -4,6 +4,8 @@ body {
     padding-top: 100px; 
 }
 
+/*--------------------------------------------Images*/
+
 .first-logo {
     background-color: white; 
 }
@@ -11,12 +13,14 @@ body {
 .first-logo img {
     width: 250px; 
     height: auto; 
+    margin-left:-15px; 
 }
 
 .second-logo img { 
     position: relative; 
     width: 45px;
     height: 45px; 
+    margin-left: -15px; 
 }
 
 .third logo img {
@@ -24,15 +28,22 @@ body {
     height: 100px; 
 }
 
+/*--------------------------------------------Main navigation*/
 
 .navbar-inverse {
     background-color: black;
-    
+    font-family: roboto, sans-serif; 
 }
 
+.navbar-toggle {
+     float: left;
+     margin-left: 8px; 
+}
 
+/*--------------------------------------------Main content*/
 .container { 
-    max-width: 600px; 
+    max-width: 700px; 
+    font-family: roboto, sans-serif; 
 } 
 
 .title {
@@ -43,20 +54,30 @@ body {
     font-family: roboto, sans-serif; 
     text-align: center; 
     margin: 0;
-    
+    font-size: 25px; 
+  
 }
+
+.title h1 u {
+    font-family: roboto, sans-serif; 
+    text-decoration: underline;
+    -webkit-text-decoration-color:#33ffad;
+    text-decoration-color:#33ffad;
+    font-weight: bold;
+     
+}
+
 
 
 .video-content video{
     width: 100%;
-    
+
 }
 
 .about-company{
     padding: 50px 0px;
     margin-bottom: 150px; 
 }
-
 
 
 .about-company col-md-3{
@@ -100,7 +121,7 @@ footer .cv-pdf i {
 }
 
 footer .cv-pdf i:hover {
-    color: #e84610;
+    color: #33ffad;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -128,7 +149,7 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #00ffbf; 
+    background: #33ffad; 
 }
 
 #footer-details {
