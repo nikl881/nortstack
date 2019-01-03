@@ -28,6 +28,8 @@ body {
     height: 100px; 
 }
 
+
+
 /*--------------------------------------------Main navigation*/
 
 .navbar-inverse {
@@ -67,6 +69,10 @@ body {
      
 }
 
+.title-about { 
+    text-align: center; 
+    margin: 10px;
+}
 
 
 .video-content video{
@@ -84,6 +90,47 @@ body {
     text-align: center; 
 }
 
+.main-foto {
+  width: 100%;
+  height: auto;
+  
+  
+  
+}
+
+.main-foto img {
+  width: 100%;
+  height: auto;
+  
+}
+
+
+
+.row {
+    margin-left: 100;
+    margin-right: 0;
+}
+
+.organisation-role{
+    margin: 25px;
+    font-size: 12px; 
+    
+}
+
+.contact-form{
+    margin-top: 100px; 
+}
+
+
+.cases-styling col-md-4 img{
+    margin: 10px;
+    
+}
+
+.cases-styling p{
+    margin: 15px; 
+    
+}
 
 /*--------------------------------------------Hover.css*/
 
