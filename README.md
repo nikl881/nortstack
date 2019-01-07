@@ -84,7 +84,7 @@ In order to be able to check whether the code functions as it was conceived duri
   
 2. Video 
   i. Play the external video file on index.html. 
-  ii. Play the video file on a small screensize 
+  ii. Play the video file on a small screensize. 
  
 3. Links
   i. Mouseover the footer buttons to see green color as part of the design.
@@ -93,7 +93,7 @@ In order to be able to check whether the code functions as it was conceived duri
 
 4. Responsive / mobile first deisgn
   i. Verify that the navigation and footer are availble at every screensize.
-  ii. Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design)
+  ii. Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
 Deployment
 
