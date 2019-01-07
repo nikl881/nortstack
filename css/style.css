@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-body {
-    padding-top: 100px; 
-}
 
 /*--------------------------------------------Images*/
 
@@ -28,63 +25,25 @@ body {
     height: 100px; 
 }
 
-
-
-/*--------------------------------------------Main navigation*/
-
-.navbar-inverse {
-    background-color: black;
-    font-family: roboto, sans-serif; 
-}
-
-.navbar-toggle {
-     float: left;
-     margin-left: 8px; 
-}
-
-/*--------------------------------------------Main content*/
-
-
-.stl-case{
-   text-align: center; 
-   margin-right: 80px; 
-   margin-bottom: 40px; 
-
-}
-
-
-
-.container { 
-    max-width: 700px; 
-    font-family: roboto, sans-serif; 
-} 
-
-.title {
-    padding: 40px 0px;
-}
-
-.title h1 {
-    font-family: roboto, sans-serif; 
-    text-align: center; 
-    margin: 0;
-    font-size: 25px; 
+.main-foto {
+    width: 100%;
+    height: auto;
   
 }
 
-.title h1 u {
-    font-family: roboto, sans-serif; 
-    text-decoration: underline;
-    -webkit-text-decoration-color:#33ffad;
-    text-decoration-color:#33ffad;
-    font-weight: bold;
-     
+.main-foto img {
+    width: 100%;
+    height: auto;
+  
 }
 
-.title-about { 
-    text-align: center; 
-    margin: 10px;
+.location-style img{
+  width: 100%; 
+  height: auto;
+  
 }
 
+/*--------------------------------------------Video*/
 
 .video-content video{
     position: absolute;
@@ -113,6 +72,64 @@ body {
     
 }
 
+
+/*--------------------------------------------Main navigation*/
+
+.navbar-inverse {
+    background-color: black;
+    font-family: roboto, sans-serif; 
+}
+
+.navbar-toggle {
+    float: left;
+    margin-left: 8px; 
+}
+
+/*--------------------------------------------Main content*/
+
+body {
+    padding-top: 100px; 
+}
+
+.stl-case{
+   text-align: center; 
+   margin-right: 80px; 
+   margin-bottom: 40px; 
+
+}
+
+.container { 
+    max-width: 700px; 
+    font-family: roboto, sans-serif; 
+} 
+
+.title {
+    padding: 40px 0px;
+}
+
+.title h1 {
+    font-family: roboto, sans-serif; 
+    text-align: center; 
+    margin: 0;
+    font-size: 25px; 
+  
+}
+
+.title h1 u {
+    font-family: roboto, sans-serif; 
+    text-decoration: underline;
+    -webkit-text-decoration-color:#33ffad;
+    text-decoration-color:#33ffad;
+    font-weight: bold;
+
+}
+
+.title-about { 
+    text-align: center; 
+    margin: 10px;
+}
+
+
 .about-company{
     padding: 50px 0px;
     margin-bottom: 150px; 
@@ -122,22 +139,6 @@ body {
 .about-company col-md-3{
     text-align: center; 
 }
-
-.main-foto {
-  width: 100%;
-  height: auto;
-  
-  
-  
-}
-
-.main-foto img {
-  width: 100%;
-  height: auto;
-  
-}
-
-
 
 .row {
     margin-left: 100;
@@ -155,12 +156,6 @@ body {
 }
 
 
-
-.cases-styling col-md-4 img{
-    margin: 10px;
-    margin-top: 15px; 
-    
-}
 
 .cases-styling p{
     margin: 15px; 
@@ -245,6 +240,8 @@ footer .cv-pdf i:hover {
     margin: 20px;
 
 }
+
+/*--------------------------------------------Media Queries*/
 
 @media screen and (max-width:800px) {
     .second-logo {display:none}
