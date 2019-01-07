@@ -70,6 +70,7 @@ GitHub has been used for version control of the code by using Git. During the re
 
 Testing
 
+<<<<<<< HEAD
 Various methods have been used to test the code of the website. During development,
 there has been continuously tested on the quality of the code. This has been done by checking the correct functionality of the code on different screensizes, different resolutions,
 different devices (mobile, tablet, desktop). This approach is used from the start to the end of the realization of the project.
@@ -111,6 +112,45 @@ Thanks to a restoration via GitHub, we were able to continue working on improvin
 
 Credits
 
+=======
+Various methods have been used to test the code of the website. During development, there has been continuously tested on the quality of the code. This has been done by checking the correct functionality of the code on different screensizes, different resolutions, different devices (mobile, tablet, desktop). This approach is used from the start to the end of the realization of the project.
+
+Mockups and sketches were also used to continuously build and deliver in accordance to the initial plan and design of the website.In the final phase of the project, the opinion of a number of people was asked. We used professinoals and non professionals to see iff the site functions properly from a certain perspective. 
+
+In order to be able to check whether the code functions as it was conceived during the design phase, we tested the functions on a basis of different scenarios. Below the main features described that are basic functions as currently available on the site.
+
+1. Main navigation
+  i. Go to about.html, cases.html, contact.html. 
+  ii. Navigate back to index.html using the 'home' button.
+  iii. Try to navigate on a tablet screensize resolution
+  iv. Try to navigate on a mobile screensize resolution. 
+  
+2. Video 
+  i. Play the external video file on index.html. 
+  ii. Play the video file on a small screensize. 
+ 
+3. Links
+  i. Mouseover the footer buttons to see green color as part of the design.
+  ii. Click on the footer buttons to verify a external site will load.
+  iii. Verify that the Nortstack site is still open at a different tab at moving to external site. 
+
+4. Responsive / mobile first deisgn
+  i. Verify that the navigation and footer are availble at every screensize.
+  ii. Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
+
+Deployment
+
+The website is made in the AWS Cloud9 environment. To give a good idea of the development progress, short deliveries are always placed at the workspace on GitHub. During the development period a upload was made to GitHub after every 3 to 4 hours of development work.
+
+It has happened a few times that the development process had some beginner issues and errors. Thanks to a restoration via GitHub, we were able to continue working on improving the website quickly. The way the Git process is used is as follows:
+
+1. Builded the site on a local environment.
+2. Staged the files in the stage area.
+3. Perform push to Github to renew the working environment. (Git directory / repository).
+
+Credits
+
+>>>>>>> 8603d955e210cb7e376e45384a071a0a8f7b696d
 This README file is based on the Code Institute template.
 
 Media
@@ -119,6 +159,10 @@ All media files used were developed by Nortstack itself for the design of the pr
 
 Acknowledgements
 
+<<<<<<< HEAD
 It is a good introduction step for me into software development. This project concerns the first official assignment at Code Institute. 
 Nortstack is a collaboration with me and Rogier Leijen. Working together for the first few weeks on our company site gives me a good feeling for the near future. 
 I am looking forward to doing more projects together and to master webdevelopment more and more during the training. 
+=======
+It is a very good introduction step for me into software development. This project concerns the first official assignment at Code Institute. Nortstack is a collaboration with me and Rogier Leijen. Working together for the first few weeks on our company site gives me a good feeling for the near future. I am looking forward to doing more projects together and to master webdevelopment more and more during the training. 
+>>>>>>> 8603d955e210cb7e376e45384a071a0a8f7b696d
