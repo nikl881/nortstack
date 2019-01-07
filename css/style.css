@@ -78,6 +78,7 @@
 .navbar-inverse {
     background-color: black;
     font-family: roboto, sans-serif; 
+    position: fixed; 
 }
 
 .navbar-toggle {
@@ -105,6 +106,7 @@ body {
 
 .title {
     padding: 40px 0px;
+
 }
 
 .title h1 {
@@ -131,8 +133,9 @@ body {
 
 
 .about-company{
-    padding: 50px 0px;
-    margin-bottom: 150px; 
+    margin-top: 50px; 
+    margin-bottom: 20px; 
+
 }
 
 
@@ -148,17 +151,23 @@ body {
 .organisation-role{
     margin: 25px;
     font-size: 12px; 
+    margin-bottom: 100px; 
     
 }
 
 .contact-form{
     margin-top: 50px; 
+    margin-bottom: 115px 
 }
 
 
+.location-style{
+    margin-bottom: 20px; 
+}
 
 .cases-styling p{
     margin: 15px; 
+    margin-bottom: 80px; 
     
 }
 
@@ -168,6 +177,9 @@ body {
   
 }
 
+.form{
+    margin-bottom: 10px; 
+}
 
 /*--------------------------------------------Hover.css*/
 
@@ -188,10 +200,8 @@ footer {
     text-align: center; 
     margin-left: auto;
     margin-right: auto; 
-    bottom: 0;
     width: 100%;
     clear: both;
-    position: fixed;
     height: 40px;
 
 }
