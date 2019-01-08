@@ -62,7 +62,7 @@
     width: 100%; 
     padding-bottom: 56.25%;
     height: 0; 
-    
+    border: 0;
 } 
     
 .iframe-container iframe{ 
@@ -71,6 +71,7 @@
     left: 0;
     width: 100%;
     height: 100%; 
+    border: 0;
     
 }
 
@@ -136,7 +137,7 @@ body {
 
 .about-company{
     margin-top: 50px; 
-    margin-bottom: 120px; 
+    margin-bottom: 60px; 
     max-height:80vh;
 
 }
@@ -158,7 +159,7 @@ body {
 
 .contact-form{
     margin-top: 50px; 
-    margin-bottom: 120px;  
+    margin-bottom: 130px;  
     max-height:90vh;
 }
 
