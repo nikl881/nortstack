@@ -6,7 +6,7 @@ Nortstack was founded in 2018. See www.nortstack.com (online from 27-01-2019) fo
 
 Niels de Klerk (2019) 
 
-## H2 UX perspective 
+## UX perspective 
 
 User stories, as an important part of the UX design, are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, 
 usually a user or customer of the system. In a random order a list of important user stories has been drawn up bellow: 
@@ -21,7 +21,7 @@ In the following link additional information concerning the UX/UI design can be 
 
 https://drive.google.com/drive/folders/1PtXtJduz-PELMQiYZTIpvAgPSXKjqaYd?usp=sharing
 
-## H2 Features
+## Features
 
 Existing Features (week 1 - 2019) 
 
@@ -48,7 +48,7 @@ Features Left to Implement (in a random order listed below)
 * Create social media accounts so a reference can be made from the website. 
 * Replace dummy image and text on cases.html for real customerlogo's with a matching description.  
 
-## H2 Technologies Used
+## Technologies Used
 
 In this section all of the languages, frameworks, libraries, and other tools that have been used are mentioned. 
 
@@ -67,7 +67,7 @@ AWS (Amazon) Cloud9, a cloud-based integrated development environment (IDE) that
 *	GitHub
 GitHub has been used for version control of the code by using Git. During the realization of the project, Git was daily used.
 
-## H2 Testing
+## Testing
 
 Various methods have been used to test the code of the website. During development,
 there has been continuously tested on the quality of the code. This has been done by checking the correct functionality of the code on different screensizes, different resolutions,
@@ -97,7 +97,7 @@ Below the main features described that are basic functions as currently availabl
    ⋅⋅* Verify that the navigation and footer are availble at every screensize.
    ⋅⋅ *Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
-## H2 Deployment
+## Deployment
 
 The website is made in the AWS Cloud9 environment. To give a good idea of the development progress, short deliveries are always placed at the workspace on GitHub. 
 uring the development period a upload was made to GitHub after every 3 to 4 hours of development work.
@@ -114,15 +114,15 @@ The website is now live in a testing environment, available at the following lin
 After implementing the remaining features listed above the site will be live at: www.nortstack.com
 
 
-## H2 Credits
+## Credits
 
 This README file is based on the Code Institute template.
 
-## H2 Media
+## Media
 
 All media files used were developed by Nortstack itself for the design of the project. 
 
-## H2 Acknowledgements
+## Acknowledgements
 
 It is a very good introduction step for me into software development. 
 This project concerns the first official assignment at Code Institute. 
