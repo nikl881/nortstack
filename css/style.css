@@ -136,13 +136,15 @@ body {
 
 .about-company{
     margin-top: 50px; 
-    margin-bottom: 90px; 
+    margin-bottom: 120px; 
+    max-height:80vh;
 
 }
 
 
 .about-company col-md-3{
     text-align: center; 
+    max-height:80vh;
 }
 
 
@@ -150,13 +152,14 @@ body {
 .organisation-role{
     margin: 25px;
     font-size: 12px; 
-    margin-bottom: 140px; 
-    
+    margin-bottom: 135px; 
+    max-height:80vh;
 }
 
 .contact-form{
     margin-top: 50px; 
-    margin-bottom: 140px 
+    margin-bottom: 120px;  
+    max-height:90vh;
 }
 
 
