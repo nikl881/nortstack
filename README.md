@@ -78,22 +78,22 @@ In the final phase of the project, the opinion of a number of people was asked. 
 In order to be able to check whether the code functions as it was conceived during the design phase, we tested the functions on a basis of different scenarios.
 Below the main features described that are basic functions as currently available on the site.
 
-* Main navigation
+* Main navigation - 
   ⋅⋅* Go to about.html, cases.html, contact.html. 
   ⋅⋅* Navigate back to index.html using the 'home' button.
   ⋅⋅* Try to navigate on a tablet screensize resolution
   ⋅⋅* Try to navigate on a mobile screensize resolution. 
   
-* Video 
+* Video - 
   ⋅⋅* Play the external video file on index.html. 
   ⋅⋅* Play the video file on a small screensize. 
  
-* Links
+* Links - 
   ⋅⋅* Mouseover the footer buttons to see green color as part of the design.
   ⋅⋅* Click on the footer buttons to verify a external site will load.
   ⋅⋅* Verify that the Nortstack site is still open at a different tab at moving to external site. 
 
-* Responsive / mobile first deisgn
+* Responsive / mobile first design - 
    ⋅⋅* Verify that the navigation and footer are availble at every screensize.
    ⋅⋅ *Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
