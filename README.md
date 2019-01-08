@@ -97,6 +97,14 @@ Below the main features described that are basic functions as currently availabl
    ⋅⋅* Verify that the navigation and footer are availble at every screensize.
    ⋅⋅ *Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
+## Issue and solution list 
+
+| Number    | Issue          | Solution  |
+| ------------- |:-------------:| -----:|
+| 1	| Image index.html not responsive on mobile view| Added CSS functions: width: 100%; height: auto; to make it responsive |
+| 2	| centered      |   $12 |
+| 3	| are neat      |    $1 |
+
 ## Deployment
 
 The website is made in the AWS Cloud9 environment. To give a good idea of the development progress, short deliveries are always placed at the workspace on GitHub. 
