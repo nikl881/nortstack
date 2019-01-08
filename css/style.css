@@ -136,7 +136,7 @@ body {
 
 .about-company{
     margin-top: 50px; 
-    margin-bottom: 20px; 
+    margin-bottom: 90px; 
 
 }
 
@@ -150,13 +150,13 @@ body {
 .organisation-role{
     margin: 25px;
     font-size: 12px; 
-    margin-bottom: 100px; 
+    margin-bottom: 140px; 
     
 }
 
 .contact-form{
     margin-top: 50px; 
-    margin-bottom: 115px 
+    margin-bottom: 140px 
 }
 
 
@@ -166,7 +166,7 @@ body {
 
 .cases-styling p{
     margin: 15px; 
-    margin-bottom: 80px; 
+    margin-bottom: 100px; 
     
 }
 
