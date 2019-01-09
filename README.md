@@ -97,13 +97,18 @@ Below the main features described that are basic functions as currently availabl
    ⋅⋅* Verify that the navigation and footer are availble at every screensize.
    ⋅⋅ *Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
-## Issue and solution list 
+## Issuelist 
 
-| Number    | Issue          | Solution  |
+| Issue number    | Description     | Solution  |
 | ------------- |:-------------:| -----:|
-| 1	| Image index.html not responsive on mobile view| Added CSS functions: width: 100%; height: auto; to make it responsive |
-| 2	| centered      |   $12 |
-| 3	| are neat      |    $1 |
+| 1	| Image index.html not responsive on mobile view| Added CSS functions: width: 100%; height: auto; to make it responsive on all screensizes |
+| 2	| Video content Youtube shows unwanted commercials in embeded view  |  Replaced the video/iframe source from Youtube to Vimeo |
+| 3	| Header was not responsive at lager resolutions      |  Replaced the custom header into Bootstrap header and rebuild it into desired style |
+| 4 | W3C error about deprecated form styling   |  Added example text instead of value 0 within inputfields and changed styling from HTML into CSS |
+| 5 | Width of page not neat on all views during testphase  |  Created a container class with a max width of 700px on all elements |
+| 6 | Bootstrap columns did not stack like design/mockup requirements  |  More knowledge gained from Bootstrap columns and did debugging on stacking columns |
+| 7 | Menu items in main navigation are outside navbar  |  Replaced the custom header into Bootstrap header and rebuild into desired style |
+| 8 | No active link available on different html pages |  Debugged by adding active link to every html page|
 
 ## Deployment
 
