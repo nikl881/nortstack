@@ -2,7 +2,9 @@
 
 Concerns the corporate website of a new digital agency called  ‘Nortstack’. Nortstack is a collaboration between Niels de Klerk (Project Manager and full stack web developer) and Rogier Leijen (Motion Graphic Designer and Art director). 
 Based on their different backgrounds, a merger has been formed to offer innovative online services that combine creativity, customer intimacy and the use of modern technology standards. 
-Nortstack was founded in 2018. See www.nortstack.com (online from 27-01-2019) for more information and contact details. 
+Nortstack was founded in 2018. See www.nortstack.com (online from 03-02-2019) for more information and contact details. 
+
+This project concerns the first official assignment at Code Institute (www.codeinstitute.net). 
 
 Niels de Klerk (2019) 
 
@@ -11,13 +13,14 @@ Niels de Klerk (2019)
 User stories, as an important part of the UX design, are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, 
 usually a user or customer of the system. In a random order a list of important user stories has been drawn up bellow: 
 
-*	As a prospect, I want to know what kind of website I’m looking at directly when I open the webpage (at first); 
+*	As a (first time) visitor of the website, I want to see directly what kind of website I’m looking at; 
 *	As a prospect, I want to see clearly what kind of services Nortstack delivers. I’m expecting to see relevant information without searching through the website; 
 *	As a IT recruiter, searching projects for clients, I want to see relevant information about services and people behind the company. 
-*	As a co-owner of the company, I want to use the website as an digital business card. I need the website to be in line of the corporate identity, and also be available for good use of mobile devices (responsive design); 
-*	As a prospect/customer of Nortstack, I want to find some contact information about the company, i.e. email-addresses and location of the office.  
+*	As a (co-)owner of the company, I want to use the website as an digital business card. I need the website to be in line of the corporate identity, and also be available for good use of mobile devices (responsive design); 
+*	As a prospect/customer/visitor, I want to find some contact information about the company, i.e. email-addresses and location of the office.  
 
-In the following link additional information concerning the UX/UI design can be found. This includes wireframes and mockups and basic images for the branddesign: 
+In the following link additional information concerning the UX/UI design can be found. 
+This includes wireframes and mockups and basic images for the branddesign: 
 
 https://drive.google.com/drive/folders/1PtXtJduz-PELMQiYZTIpvAgPSXKjqaYd?usp=sharing
 
@@ -45,8 +48,8 @@ Features Left to Implement (in a random order listed below)
 *	Add customer stories as an extra html page on the website 
 *	Add a additional html page about company strategy and workprogress of Nortstack
 *	Add Google analytics to generate relevant data. 
-* Create social media accounts so a reference can be made from the website. 
-* Replace dummy image and text on cases.html for real customerlogo's with a matching description.  
+*   Create social media accounts so a reference can be made from the website. 
+*   Replace dummy image and text on cases.html for real customerlogo's with a matching description.  
 
 ## Technologies Used
 
@@ -79,27 +82,27 @@ In order to be able to check whether the code functions as it was conceived duri
 Below the main features described that are basic functions as currently available on the site.
 
 * Main navigation - 
-  ⋅⋅* Go to about.html, cases.html, contact.html. 
-  ⋅⋅* Navigate back to index.html using the 'home' button.
-  ⋅⋅* Try to navigate on a tablet screensize resolution
-  ⋅⋅* Try to navigate on a mobile screensize resolution. 
+    * Go to about.html, cases.html, contact.html. 
+    * Navigate back to index.html using the 'home' button.
+    * Try to navigate on a tablet screensize resolution within all the navigation buttons.
+    * Try to navigate on a mobile screensize resolution within all the navigation buttons. 
   
 * Video - 
-  ⋅⋅* Play the external video file on index.html. 
-  ⋅⋅* Play the video file on a small screensize. 
+    * Play the external video file on index.html on different webbrowsers (IE, Firefox, Chrome, Safari).  
+    * Play the video file on a small (mobile and tablet) screensize. 
  
 * Links - 
-  ⋅⋅* Mouseover the footer buttons to see green color as part of the design.
-  ⋅⋅* Click on the footer buttons to verify a external site will load.
-  ⋅⋅* Verify that the Nortstack site is still open at a different tab at moving to external site. 
+    * Mouseover the footer buttons to see green color as part of the design.
+    * Click on the footer buttons to verify a external site will load.
+    * Verify that the Nortstack site is still open at a different tab at moving to external site. 
 
 * Responsive / mobile first design - 
-   ⋅⋅* Verify that the navigation and footer are availble at every screensize.
-   ⋅⋅ *Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
+    * Verify that the navigation and footer are availble at every screensize.
+    * Verify the changes in lay-out at cases.html on different screensizes (better users experience and clarity of design).
 
 ## Issuelist 
 
-| Issue number    | Description     | Solution  |
+| Issue number    | Description     | Implemented Solution  |
 | ------------- |:-------------:| -----:|
 | 1	| Image index.html not responsive on mobile view| Added CSS functions: width: 100%; height: auto; to make it responsive on all screensizes |
 | 2	| Video content Youtube shows unwanted commercials in embeded view  |  Replaced the video/iframe source from Youtube to Vimeo |
@@ -137,7 +140,7 @@ All media files used were developed by Nortstack itself for the design of the pr
 
 ## Acknowledgements
 
-It is a very good introduction step for me into software development. 
+It is a good introduction step for me into software development. 
 This project concerns the first official assignment at Code Institute. 
 Nortstack is a collaboration with me and Rogier Leijen. 
 Working together for the first few weeks on our company site gives me a good feeling for the near future. 
