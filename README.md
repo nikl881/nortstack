@@ -4,7 +4,7 @@ Concerns the corporate website of a new digital agency called  ‘Nortstack’. 
 Based on their different backgrounds, a merger has been formed to offer innovative online services that combine creativity, customer intimacy and the use of modern technology standards. 
 Nortstack was founded in 2018. See www.nortstack.com (online from 03-02-2019) for more information and contact details. 
 
-This project concerns the first official assignment at Code Institute (www.codeinstitute.net). 
+This project concerns the first official assignment at Code Institute (see more at www.codeinstitute.net). 
 
 Niels de Klerk (2019) 
 
@@ -75,6 +75,21 @@ GitHub has been used for version control of the code by using Git. During the re
 Various methods have been used to test the code of the website. During development,
 there has been continuously tested on the quality of the code. This has been done by checking the correct functionality of the code on different screensizes, different resolutions,
 different devices (mobile, tablet, desktop). This approach is used from the start to the end of the realization of the project.
+
+Site viewed and tested in the following browsers:
+
+    * Firefox
+    * Safari
+    * Chrome
+
+Site viewed and tested in the following devices:
+
+    * Samsung Galaxy
+    * Iphone 8
+    * Iphone 6S
+    * Ipad
+    * Macbook 13" and 15"
+    
 
 Mockups and sketches were also used to continuously build and deliver in accordance to the initial plan and design of the website.
 In the final phase of the project, the opinion of a number of people was asked. We used professinoals and non professionals to see iff the site functions properly from a certain perspective. 
