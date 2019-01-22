@@ -77,19 +77,16 @@ there has been continuously tested on the quality of the code. This has been don
 different devices (mobile, tablet, desktop). This approach is used from the start to the end of the realization of the project.
 
 Site viewed and tested in the following browsers:
-
     * Firefox
-    * Safari
+    * Safari 
     * Chrome
 
 Site viewed and tested in the following devices:
-
     * Samsung Galaxy
     * Iphone 8
     * Iphone 6S
     * Ipad
     * Macbook 13" and 15"
-    
 
 Mockups and sketches were also used to continuously build and deliver in accordance to the initial plan and design of the website.
 In the final phase of the project, the opinion of a number of people was asked. We used professinoals and non professionals to see iff the site functions properly from a certain perspective. 
